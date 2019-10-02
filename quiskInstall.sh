@@ -25,4 +25,4 @@ All finished - now rebooting the Pi .....
 
 "
 sleep 4
-rebooting
+reboot
